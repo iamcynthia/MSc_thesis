@@ -1,0 +1,35 @@
+﻿Code,Activity,Trials ,Duration [S],A_Label_desc,A_Label,R_Label_desc,R_Label
+D01,Walking Slowly    ,1,100,walking,1,Non Fall,1
+D02,Walking Quickly    ,1,100,walking,1,Non Fall,1
+D03,Jogging Slowly,1,100,jogging,2,Non Fall,1
+D04,Jogging Quickly,1,100,jogging,2,Non Fall,1
+D05,Walking upstairs and downstairs slowly     ,5,25,walk up and down,3,Non Fall,1
+D06,Walking upstairs and downstairs quickly,5,25,walk up and down,3,Non Fall,1
+D07,"Slowly sit in a half height chair, wait a moment, and up slowly",5,12,sit and stand,4,Non Fall,1
+D08,"Quickly sit in a half height chair, wait a moment, and up quickly",5,12,sit and stand,4,Non Fall,1
+D09,"Slowly sit in a low height chair, wait a moment, and up slowly",5,12,sit and stand,4,Non Fall,1
+D10,"Quickly sit in a low height chair, wait a moment, and up quickly",5,12,sit and stand,4,Non Fall,1
+D11,"Sitting a moment, trying to get up, and collapse into a chair",5,12,sit and collapsed,5,Non Fall,1
+D12,"Sitting a moment, lying slowly, wait a moment, and sit again",5,12,lying down,6,Non Fall,1
+D13,"Sitting a moment, lying quickly, wait a moment, and sit again",5,12,lying down,6,Non Fall,1
+D14,"Being on one’s back change to lateral position, wait a moment, and change to one’s back",5,12,lying down,6,Non Fall,1
+D15,"Standing, slowly bending at knees, and getting up",5,12,stand and bend,7,Non Fall,1
+D16,"Standing, slowly bending without bending knees, and getting up",5,12,stand and bend,7,Non Fall,1
+D17,"Standing, get into a car, remain seated and get out of the car",5,25,stand and get in car,8,Non Fall,1
+D18,Stumble while walking,5,12,stumble,9,Non Fall,1
+D19,Gently jump without falling (trying to reach a high object),5,12,jump,10,Non Fall,1
+F01,Fall forward while walking caused by a slip,5,15,fall forward,11,Fall,2
+F02,Fall backward while walking caused by a slip,5,15,fall backward,12,Fall,2
+F03,Lateral fall while walking caused by a slip,5,15,lateral fall,13,Fall,2
+F04,Fall forward while walking caused by a trip,5,15,fall forward,11,Fall,2
+F05,Fall forward while jogging caused by a trip,5,15,fall forward,11,Fall,2
+F06,Vertical fall while walking caused by fainting,5,15,fall forward,11,Fall,2
+F07,"Fall while walking, with use of hands in a table to dampen fall, caused by fainting",5,15,lateral fall,13,Fall,2
+F08,Fall forward when trying to get up,5,15,fall forward,11,Fall,2
+F09,Lateral fall when trying to get up,5,15,lateral fall,13,Fall,2
+F10,Fall forward when trying to sit down,5,15,fall forward,11,Fall,2
+F11,Fall backward when trying to sit down,5,15,fall backward,12,Fall,2
+F12,Lateral fall when trying to sit down,5,15,lateral fall,13,Fall,2
+F13,"Fall forward while sitting, caused by fainting or falling asleep",5,15,fall forward,11,Fall,2
+F14,"Fall backward while sitting, caused by fainting or falling asleep",5,15,fall backward,12,Fall,2
+F15,"Lateral fall while sitting, caused by fainting or falling asleep",5,15,lateral fall,13,Fall,2
