@@ -8,7 +8,7 @@ and 13 classes version of dataset, KNN obtains the best accuracy score, which ar
 data imbalanced problem, though the accuracy score decreased, the sensitivity and specificity score increased when using one-sided selection (OSS) and synthetic 
 minority oversampling technique (SMOTE) + Tomek link (T-Link). In conclusion, KNN may be the most suitable algorithms for classifying gait patterns and the 
 improvement of the classifier implies that label imbalanced is one of the main issues.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 1. step1_data_preprocessing.py
 ---- including convert the original datasets' txt filte to csv file, plot gait patterns for each subjects, 3 denoising methods
