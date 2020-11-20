@@ -1,6 +1,5 @@
 Abstract
-This project applies three machine learning algorithms, support vector machine (SVM), K- nearest neighbour (KNN) and naïve Bayes (NB) for classifying different 
-activities, compare the performance among them and improve these classifiers by under-sampling. SisFall dataset is used here for testing the classifiers. Data has 
+This project applies three machine learning algorithms, support vector machine (SVM), K- nearest neighbour (KNN) and naïve Bayes (NB) for classifying different activities, compare the performance among them and improve these classifiers by under-sampling. SisFall dataset is used here for testing the classifiers. Data has 
 been denoised by Butterworth low pass filter and segmented the pre-processed data into 5 seconds a chunk. Each chunk has been summarized into 12 features and 
 feature extraction techniques will be implemented to reduce dimensionality. There are three versions of dataset after segmentation which are based on different 
 methods for the given labels. Radial basis function (RBF) SVM is the best classifier in binary version of dataset, which is 89.41% on accuracy score. In 9 classes 
