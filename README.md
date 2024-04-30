@@ -55,6 +55,5 @@ The 13 classes version of dataset has some improvements when under-sampling the 
 ├── README.md               
 ├── statement.txt                # statement certifying the work as my own
 ├── step1_data_preprocessing.py  # including convert the original datasets' txt filte to csv file, plot gait patterns for each subjects, 3 denoising methods
-├── step2_Segmentation.py        # egment dataset into several 5 seconds chunk and give labels
-└── 
+└──step2_Segmentation.py        # egment dataset into several 5 seconds chunk and give labels
 ```
